@@ -40,7 +40,7 @@ You can customize the appearance of the floating WhatsApp button by modifying th
 
 ## Support
 
-For any issues or questions, please [open an issue]([https://github.com/your-repository/issues](https://github.com/islammohy/WhatsApp-Floating-Button-WP-Plugin/issues)).
+For any issues or questions, please [open an issue](https://github.com/islammohy/WhatsApp-Floating-Button-WP-Plugin/issues).
 
 ## License
 
